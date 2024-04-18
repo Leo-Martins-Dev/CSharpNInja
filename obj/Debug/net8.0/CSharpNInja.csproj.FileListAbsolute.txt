@@ -1,0 +1,15 @@
+/Users/vegapunk/Projects/CSharpNInja/bin/Debug/net8.0/CSharpNInja
+/Users/vegapunk/Projects/CSharpNInja/bin/Debug/net8.0/CSharpNInja.deps.json
+/Users/vegapunk/Projects/CSharpNInja/bin/Debug/net8.0/CSharpNInja.runtimeconfig.json
+/Users/vegapunk/Projects/CSharpNInja/bin/Debug/net8.0/CSharpNInja.dll
+/Users/vegapunk/Projects/CSharpNInja/bin/Debug/net8.0/CSharpNInja.pdb
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.AssemblyInfoInputs.cache
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.AssemblyInfo.cs
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.csproj.CoreCompileInputs.cache
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.sourcelink.json
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.dll
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/refint/CSharpNInja.dll
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.pdb
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/CSharpNInja.genruntimeconfig.cache
+/Users/vegapunk/Projects/CSharpNInja/obj/Debug/net8.0/ref/CSharpNInja.dll
